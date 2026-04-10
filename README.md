@@ -11,7 +11,7 @@ This project was developed for the Data Storage in Decentralized Environments (A
 ## Repository Structure
 * /backend: Contains the Node.js API, routing, controllers, and MongoDB connection logic.
 * /frontend/app-main-project: Contains the client-side code and graphical interface.
-* Relatorio_ADAD.pdf: The official project report containing the architectural design, database schemas, and theoretical foundations of the decentralized approach.
+* /Report: The official project report containing the architectural design, database schemas, and theoretical foundations of the decentralized approach.
 
 ## How to Run Locally
 
